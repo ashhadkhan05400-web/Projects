@@ -1,0 +1,354 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    /* background-color: #f5f5f7; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    /* font-family: San Francisco ; */
+}
+
+body {
+    background-color: #f5f5f7;
+}
+
+
+.navbar {
+    width: 100%;
+    height: 50px;
+    margin-top: x;
+    background-color: #f5f5f7;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    position: relative;
+    z-index: 1000;
+
+}
+
+.logo {
+    position: absolute;
+    left: 6%;
+    margin-top: 15px;
+}
+
+.store1 {
+    position: absolute;
+    left: 10%;
+    margin-top: 15px;
+}
+
+
+
+.mac {
+    position: absolute;
+    left: 15%;
+    margin-top: 15px;
+}
+
+.ipad {
+    position: absolute;
+    left: 20%;
+    margin-top: 15px;
+}
+
+.iphone {
+    position: absolute;
+    left: 25%;
+    margin-top: 15px;
+}
+
+.watch {
+    position: absolute;
+    left: 31%;
+    margin-top: 15px;
+}
+
+.vision {
+    position: absolute;
+    left: 36%;
+    margin-top: 15px;
+}
+
+.airpods {
+    position: absolute;
+    left: 41%;
+    margin-top: 15px;
+}
+
+.tvhome {
+    position: absolute;
+    left: 48%;
+    margin-top: 15px;
+}
+
+.entertainment {
+    position: absolute;
+    left: 56%;
+    margin-top: 15px;
+}
+
+.accessories {
+    position: absolute;
+    left: 66%;
+    margin-top: 15px;
+}
+
+.support {
+    position: absolute;
+    left: 75%;
+    margin-top: 15px;
+}
+
+
+.icon1 {
+    position: absolute;
+    left: 83%;
+    margin-top: 15px;
+}
+
+.icon2 {
+    position: absolute;
+    left: 88%;
+    margin-top: 15px;
+}
+
+.promobar {
+    width: 100%;
+    height: 60px;
+    background-color: white;
+}
+
+.texxt {
+    position: absolute;
+    left: 18%;
+    margin-top: 19px;
+}
+
+.textt {
+    position: absolute;
+    left: 72%;
+    margin-top: 19px;
+    color: #2596be;
+}
+
+.store {
+    margin-top: 150px;
+    color: black;
+    width: 40px;
+    height: 30px;
+    /* background-color: white; */
+    position: absolute;
+    left: 12%;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.text4 {
+    position: absolute;
+    left: 60%;
+    margin-top: 50px;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.text5 {
+    position: absolute;
+    left: 25%;
+    display: inline;
+    display: flex;
+    font-size: 28px;
+    font-weight: 600;
+
+}
+
+.text6 {
+    position: absolute;
+    left: 82%;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.text7 {
+    position: absolute;
+    left: 69%;
+    margin-top: 135px;
+    color: #2596be;
+}
+
+.text8 {
+    position: absolute;
+    left: 69.5%;
+    margin-top: 155px;
+    color: #2596be;
+}
+
+.mac2 {
+    /* width: 90px;
+ height: 60px;  */
+    /* border: 2px solid black; */
+    margin-top: 21%;
+    background-image: url(store-card-13-mac-nav-202510.png);
+    position: absolute;
+    left: 13%;
+    background-image: cover;
+}
+
+.m {
+    position: absolute;
+    left: 39%;
+    margin-top: 5px;
+}
+
+.iphone2 {
+    margin-top: 21.5%;
+    position: absolute;
+    left: 23%;
+    background-image: cover;
+}
+
+.i {
+    position: absolute;
+    left: 25%;
+    margin-top: x;
+}
+
+.ipad1 {
+    margin-top: 21.5%;
+    position: absolute;
+    left: 31%;
+    background-image: cover;
+}
+
+.p {
+    position: absolute;
+    left: 29%;
+}
+
+.watch1 {
+    margin-top: 21.5%;
+    position: absolute;
+    left: 39%;
+    background-image: cover;
+}
+
+.aw {
+    position: absolute;
+    left: 34%;
+}
+
+.vission-pro {
+    margin-top: 21%;
+    position: absolute;
+    left: 48%;
+    background-image: cover;
+
+}
+
+.vp {
+    position: absolute;
+    left: 17%;
+    margin-top: 5px;
+
+}
+
+.airpods1 {
+    margin-top: 21%;
+    position: absolute;
+    left: 58%;
+    background-image: cover;
+}
+
+.as {
+    position: absolute;
+    left: 24%;
+    margin-top: 5px;
+}
+
+.airtags {
+    margin-top: 21%;
+    position: absolute;
+    left: 67%;
+    background-image: cover;
+}
+
+.ai {
+    position: absolute;
+    left: 24%;
+    margin-top: 5px;
+}
+
+.appletv {
+    margin-top: 21%;
+    position: absolute;
+    left: 74%;
+    background-image: cover;
+
+}
+
+.tv {
+    position: absolute;
+    left: 21%;
+    margin-top: 5px;
+}
+
+.homepad {
+    margin-top: 21%;
+    position: absolute;
+    left: 83%;
+    background-image: cover;
+}
+
+.h {
+    position: absolute;
+    left: 13%;
+    margin-top: 5px;
+}
+
+.text9 {
+    margin-top: 460px;
+    color: black;
+    margin-left: 12%;
+    left: 12%;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.text10 {
+    margin-left: 11%;
+    margin-top: -35.6px;
+    color: #6e6e73;
+}
+
+.herocard {
+    border-radius: 9px;
+    width: 350px;
+    height: 390px;
+    border: 2px solid black;
+    margin-left: 12%;
+    margin-top: 20px;
+    display: inline-block
+  
+}
+
+.text11 {
+    margin-top: 70px;
+    color: black;
+    margin-left: 12%;
+    left: 12%;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.text12 {
+    margin-left: 13.5%;
+    margin-top: -36px;
+    color: #6e6e73;
+}
+
+.herocard2 {
+    border-radius: 10px;
+    width: 350px;
+    height: 390px;
+     border: 2px solid white; 
+    margin-left: 12%;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ display: inline-block;
+}
